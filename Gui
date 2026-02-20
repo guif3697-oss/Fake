@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <title>Escândalo Financeiro</title>
+</head>
+<body>
+
+    <h1>Escândalo financeiro envolve clube e banco patrocinador</h1>
+
+    <p><strong>Por Redação Investigativa</strong></p>
+
+    <section>
+        <p>
+            O Clube Santos passou a ser citado em uma investigação que apura possíveis 
+            irregularidades financeiras envolvendo o Banco Master Brasil, patrocinador 
+            máster da equipe desde o início da temporada.
+        </p>
+
+        <p>
+            De acordo com informações divulgadas pelo Ministério Público Estadual, 
+            o banco estaria sendo investigado por suspeitas de descontos indevidos 
+            em benefícios previdenciários de idosos, por meio de contratos de 
+            empréstimos consignados que teriam sido firmados sem consentimento 
+            claro dos aposentados.
+        </p>
+    </section>
+
+    <h2>Contrato milionário e contratação polêmica</h2>
+
+    <section>
+        <p>
+            O caso ganhou maior repercussão após a divulgação de que o Banco Master Brasil 
+            firmou um contrato de patrocínio estimado em R$ 50 milhões anuais com o clube.
+        </p>
+
+        <p>
+            O acordo foi anunciado dias antes da contratação do atacante Neymar, 
+            considerado uma das maiores aquisições da história do time.
+        </p>
+
+        <p>
+            Acompanhe mais em: <a href="#">Banco Master: o que se sabe até agora sobre a crise e o que falta esclarecer</a>
+        </p>
+    </section>
+
+    <hr>
+
+    <footer>
+        <p><strong>Site criado por Gui Felix</strong></p>
+        <p>Gui Felix é foda e ama a Lorrany ❤️</p>
+    </footer>
+
+</body>
+</html>
